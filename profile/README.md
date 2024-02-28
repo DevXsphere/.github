@@ -40,4 +40,6 @@ We thrive on community contributions! Whether you're an experienced developer or
 
 3. Select "Invitation to DevXsphere- Github Organization" and provide your details.
 
-4. Look out for the email invitation to join our GitHub Organization; ensure you accept it to become a member.
+4. Join our social media handles, where you can chat with the community and also ask any questions.
+
+5. Look out for the email invitation to join our GitHub Organization; ensure you accept it to become a member.
