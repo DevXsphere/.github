@@ -18,4 +18,11 @@
     <img height="30" src="https://img.shields.io/badge/🌐 Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/DevXsphere/" style="text-decoration:none">
- 
+ <h3>About</h3>
+At DevXsphere, we're passionate about embracing the power of technology and fostering open collaboration. Learn more about our mission and values in our About section. 🚀
+
+<h3>Learning</h3>
+Explore our repository filled with a diverse range of learning resources, including guides on cutting-edge technologies, programming languages, and open-source projects. We believe in the democratization of knowledge, so all our resources are freely accessible. 📚🌎
+
+<h3>Get involved</h3>
+We thrive on community contributions! Whether you're an experienced developer or just getting started, there's a place for you in our community. Check out our contribution guidelines and join us in shaping the future of tech together! 🤝
