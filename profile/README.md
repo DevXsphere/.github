@@ -1,6 +1,8 @@
+<div align="center">
+  <img src="https://github.com/DevXsphere/.github/assets/118432516/62e35219-a144-40e3-a5fa-486010fdec50" width="400px" alt="Image not found"/>
+</div>
 <p align="center">
-    <img src="![devXsphere9](https://github.com/DevXsphere/.github/assets/118432516/5ca95595-2a7c-44e1-a4dd-bc953ac5e0fd)" width="100%" />
-    <h1 align="center"> 🚀 DevXsphere community 🚀</h1>
+   <h1 align="center"> 🚀 DevXsphere community 🚀</h1>
     <h3 align="center">To the community for the community</h3>
 </p>
 <p align="center">Unleash the World of latest tech stacks | Join our DevXsphere Community for creating, building, and contributing through code and no code tools. Let's hack the future together! 💻🌐 #DevXsphere</p>
@@ -29,3 +31,13 @@ Explore our repository filled with a diverse range of learning resources, includ
 
 <h3>Get involved</h3>
 We thrive on community contributions! Whether you're an experienced developer or just getting started, there's a place for you in our community. Check out our contribution guidelines and join us in shaping the future of tech together! 🤝
+
+<h2>🛠️ Steps to Join the Fork-N-Forge Github Organization:</h2>
+
+1. Go to the issues tab [here](https://github.com/DevXsphere/support/issues).
+
+2. Create a new issue.
+
+3. Select "Invitation to DevXsphere- Github Organization" and provide your details.
+
+4. Look out for the email invitation to join our GitHub Organization; ensure you accept it to become a member.
