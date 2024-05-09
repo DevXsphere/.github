@@ -32,7 +32,7 @@ Explore our repository filled with a diverse range of learning resources, includ
 <h3>Get involved</h3>
 We thrive on community contributions! Whether you're an experienced developer or just getting started, there's a place for you in our community. Check out our contribution guidelines and join us in shaping the future of tech together! 🤝
 
-<h2>🛠️ Steps to Join the Fork-N-Forge Github Organization:</h2>
+<h2>🛠️ Steps to Join the DevXsphere Github Organization:</h2>
 
 1. Go to the issues tab [here](https://github.com/DevXsphere/support/issues).
 
